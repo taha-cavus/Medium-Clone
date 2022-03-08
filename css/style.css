@@ -80,6 +80,10 @@
 .trends-head{
     margin-bottom: 20px;
 }
+.trends-head p{
+    display: inline;
+    font-weight: bold;
+}
 #trends i{
     border-width: 1px; border-color: black; border-radius: 100%; padding: 5px;
 }
@@ -89,12 +93,16 @@
     flex-wrap: wrap;
 }
 .c-body{
-    width: 400px;
+    width: 450px;
     height: 200px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
     border: 1px solid black;
 }
 .c-number{
-
+    font-size: 2rem;
+    font-weight: bolder;
+    opacity: 0.3;
 }
 .c-pic{
 
