@@ -93,20 +93,33 @@
     flex-wrap: wrap;
 }
 .c-body{
-    width: 450px;
+    width: 470px;
     height: 200px;
     font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
     
 
-    border: 1px solid black;
+}
+/* 2. 5.  cards */
+.c-body-2{
+    padding-left: 40px ;
+}
+/* 3. 6. cards */
+.c-body-3{
+    padding-left: 80px ;
+}
+.c-body-2 > .c-number{
+    margin-right: 10px;
+}
+.c-body-3 > .c-number{
+    margin-right: 10px;
 }
 .c-number{
     font-size: 2.1rem;
     opacity: 0.2;
     font-family: 'Montserrat', sans-serif;
     margin-right: 20px;
-    margin-top: 40px;
-    
+    margin-top: 20px;
+
 }
 .c-pic{
     border-radius: 20px;
