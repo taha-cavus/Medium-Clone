@@ -165,5 +165,10 @@
     font-size: 1rem;
 }
 .side-buttons{
-
+    padding: 8px 20px;
+    margin-right: 11px;
+    margin-bottom: 10px;
+    border: solid #E6E6E6 1px;
+    background-color: white;
+    color: gray;
 }
