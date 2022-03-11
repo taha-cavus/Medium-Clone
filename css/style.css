@@ -143,11 +143,24 @@
 }
 /********************************************* ARTICLES *********************************************/
 .articles-head{
-
+    font-size: 1.5rem;
+    font-weight: 800;
 }
 .articles-text{
-
+    font-size: 1.2rem;
+    opacity: 0.7;
 }
-.marked{
+.marked{    
+
+}   
+.article-time{
+    font-weight:500;
+    opacity: 0.7;
+}
+.side-head{
+    font-weight: bold;
+    font-size: 1rem;
+}
+.side-buttons{
     
 }
